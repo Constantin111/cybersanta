@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'M.Video';
+    src: url('MVideo-Light.eot');
+    src: url('MVideo-Light.eot?#iefix') format('embedded-opentype'),
+        url('MVideo-Light.woff') format('woff2'),
+        url('MVideo-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'M.Video';
+    src: url('MVideo-Bold.eot');
+    src: url('MVideo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MVideo-Bold.woff') format('woff2'),
+        url('MVideo-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'M.Video';
+    src: url('MVideo-Regular.eot');
+    src: url('MVideo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MVideo-Regular.woff') format('woff2'),
+        url('MVideo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
